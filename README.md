@@ -2,8 +2,7 @@
 
 Aspiring AI&ML Engineer
 <br/>
-Currently pursuing 3rd yr in <br/> Vel Tech High Tech Engineering College <br/>
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXAwMDFnODByemF2cXFkeG9vcDMzYzUwOWs2Zm5weWkwNjU5MHgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif">                                           
+Currently pursuing 3rd yr in <br/> Vel Tech High Tech Engineering College <br/>                                       
 - 🌱 I’m currently learning out of curiosity
 - ⚡ Fun fact: I am a gamer and i like to explore a lot
 
@@ -22,5 +21,3 @@ Currently pursuing 3rd yr in <br/> Vel Tech High Tech Engineering College <br/>
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?logo=nvidia&logoColor=white)](https://nvidia.com)
 [![RAM](https://img.shields.io/badge/RAM-16GB_DDR4-important)](https://)
 [![Storage](https://img.shields.io/badge/Storage-512GB_SSD-blueviolet)](https://)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen7123&bg_color=0d0d0c&color=0d09f1&line=0252f2&point=0d54e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
